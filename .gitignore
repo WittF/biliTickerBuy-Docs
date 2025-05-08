@@ -1,0 +1,11 @@
+# VitePress 忽略路径
+./.vitepress/dist
+./.vitepress/cache
+# Node.js 依赖
+node_modules/
+# 系统文件
+.DS_Store
+# 日志文件
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log* 
