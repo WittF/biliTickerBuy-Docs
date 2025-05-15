@@ -22,11 +22,11 @@ export default {
       ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/W1ttF/biliTickerBuy' }
+      { icon: 'github', link: 'https://github.com/mikumifa/biliTickerBuy' }
     ],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024-present W1ttF'
+      copyright: 'Copyright © 2025 biliTickerBuy Contributors'
     }
   }
 } 
